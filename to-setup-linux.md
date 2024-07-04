@@ -1,4 +1,4 @@
-# How I (Sammy Lord) eetup linux
+# How I (Sammy Lord) setup linux
 
 * Set theme
 * Install proprietary drivers
