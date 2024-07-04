@@ -1,3 +1,2 @@
-# Tech Docs
-
-Welcome to Sammy's tech docs!
+# sam-sneed.github.io
+Code for Sneed Group blog
