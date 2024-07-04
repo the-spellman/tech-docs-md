@@ -1,2 +1,3 @@
-# tech-docs-md
-Markdown for tech docs
+# Tech Docs
+
+Welcome to Sammy's tech docs!
